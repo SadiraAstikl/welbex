@@ -1,0 +1,240 @@
+body {
+  background-color: #0E1014;
+  margin-top: -140px;
+}
+
+.redball {
+  width: 83px;
+  height: 83px;
+ margin-top: -30px;
+  margin-left: 615px;
+}
+.purpleball {
+  width: 60px;
+  height: 60px;
+  margin-bottom: -85px;
+  margin-left: 930px;
+}
+.purpleLight {
+  margin-bottom: -400px;
+  margin-left: 250px;
+}
+
+.header {
+  display: flex;
+  background-color: #0E1014;
+  justify-content: space-between;
+  margin-top: 46px;
+  margin-left: 150px;
+  margin-right: 150px;
+  width: 1140px;
+  height: 73px;
+}
+
+.logo {
+  width: 140px;
+  height: 24px;
+  margin-top: 11px;
+}
+
+.logopart {
+  display: flex;
+  flex-direction: column;
+  color: 
+  #E4E5EA;
+  width: 165px;
+  font-size: 10px;
+  line-height: 12.19px;
+  font-weight: 300;
+}
+
+.menu {
+  display: flex;
+  color: #E4E5EA;
+  justify-content: space-between;
+  align-items: center;
+  width: 503px;
+}
+
+.menu1, .menu2, .menu3, .menu4, .menu5 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19.36px;
+  color: #E4E5EA;
+}
+
+.contacts {
+  display: flex;
+  justify-content: space-between;
+align-items: center;
+
+}
+
+.number {
+  font-weight: 500;
+  font-size: 16px;
+  color: 
+  #E4E5EA;
+  width: 143px;
+}
+
+.telegram, .viber, .whatsapp {
+  width: 20px;
+  height: 20px;
+  margin-right: 15px;
+}
+.common {
+  display: flex;
+  flex-direction: column;
+}
+
+.berich {
+  color: #E4E5EA;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 50.09px;
+  width: 368px;
+}
+.welbex {
+  width: 247px;
+  height: 58px;
+  font-weight: 900;
+}
+.text {
+  width: 275px;
+  height: 44px;
+  font-weight: 400;
+  font-size: 18px;
+  color: 
+  #E4E5EA;
+}
+
+.redlight {
+  margin-bottom: -750px;
+  margin-top: -200px;
+  margin-left: -800px;
+}
+
+.bodypart {
+  display: flex;
+  justify-content: space-between;
+margin-left: 150px;
+margin-right: 150px;
+
+}
+.gift {
+  width: 291px;
+  height: 44px;
+  font-weight: 700;
+}
+
+.giftwrap {
+  align-self: flex-end;
+}
+.info {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+ 
+}
+.box1, .box2, .box3, .box4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around; 
+}
+.box2, .box4 {
+  margin-left: 50px;
+}
+
+
+.item1, .item2, .item3, .item4 {
+  color: #E4E5EA;
+  font-weight: 500;
+  font-size: 18px; 
+  text-align: right;
+  
+}
+
+.content1, .content2, .content3, .content4 {
+  color: #E4E5EA;
+  font-size: 16px;
+  text-align: right;
+  width: 150px;
+}
+
+
+.bigbox1, .bigbox2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.button {
+  width: 262px;
+  height: 61px;
+  margin-top: 20px;
+  background-color: #4077F3;
+  align-self: flex-end;
+  border: 2px solid #4077F3;
+  color: 
+  #E4E5EA;
+}
+
+.smallredball {
+  margin-left: 850px;
+  margin-top: -50px;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 40px;
+}
+.about, .menu, .allcontacts {
+  color: 
+  #656566;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16.94px;
+}
+
+.programm, .vacancy, .inside1 {
+  color: 
+  #E4E5EA
+  ;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.36px;
+  margin-right: 150px;
+  width: 195px;
+}
+ .second {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-right: -220px;
+ }
+ .box2 {
+ margin-left: -250px;
+ }
+.phone, .address {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19.36px;
+  color: #E4E5EA;
+
+}
+.address {
+width: 250px;
+}
+.third {
+  text-align: end;
+}
+.footerinfo, .rights {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14.63px;
+  color: 
+  #E4E5EA;
+}
