@@ -63,6 +63,17 @@ body {
   color: #E4E5EA;
 }
 
+.menu1:hover, 
+.menu2:hover, 
+.menu3:hover, 
+.menu4:hover, 
+.menu5:hover {
+  color: white;
+  cursor: pointer;
+  transform: scale(1.1); 
+}
+
+
 .contacts {
   display: flex;
   justify-content: space-between;
@@ -83,6 +94,12 @@ align-items: center;
   height: 20px;
   margin-right: 15px;
 }
+.telegram:hover, .viber:hover, .whatsapp:hover {
+  color: white;
+  cursor: pointer;
+  transform: scale(1.1);
+}
+
 .common {
   display: flex;
   flex-direction: column;
@@ -185,6 +202,12 @@ width: 1140px;
   color: 
   #E4E5EA;
 }
+.button:hover {
+  background-color: #E4E5EA;;
+  color: #4077F3;
+  border: none;
+}
+
 
 .smallredball {
   margin-left: 850px;
@@ -217,7 +240,11 @@ width: 1140px;
   line-height: 19.36px;
   width: 195px;
 }
-
+.programm:hover, .vacancy:hover, .inside1:hover {
+  color: white;
+  cursor: pointer;
+  transform: scale(1.1); 
+}
  .second {
   display: flex;
   flex-direction: row;
